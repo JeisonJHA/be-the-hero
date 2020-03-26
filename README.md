@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="center">
-  An app for register some incidents happened, await for a hero to help.
+  An app for register some incidents that happened, await for a hero to help.
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jeisonjha/be-the-hero.svg">
