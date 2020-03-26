@@ -60,7 +60,7 @@ This project was developed at the [RocketSeat Semana Omnistack](https://rocketse
 - [Axios](https://github.com/axios/axios)
 - [History](https://www.npmjs.com/package/history)
 - [React-Icons](http://react-icons.github.io/react-icons/)
-- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [VS Code][vc]
 
 ## Mobile App
 - [ReactNative](https://reactnative.dev)
@@ -68,7 +68,7 @@ This project was developed at the [RocketSeat Semana Omnistack](https://rocketse
 - [Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
 - [React Navigation](https://reactnavigation.org/)
 - [Axios](https://github.com/axios/axios)
-- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [VS Code][vc]
 information_source-how-to-use
 ## :information_source: How To Use
 
