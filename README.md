@@ -66,7 +66,7 @@ This project was developed at the [RocketSeat Semana Omnistack](https://rocketse
 - [ReactNative](https://reactnative.dev)
 - [Expo](https://expo.oi)
 - [Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
-- [React Navigation](https://github.com/ReactTraining/react-router)
+- [React Navigation](https://reactnavigation.org/)
 - [Axios](https://github.com/axios/axios)
 - [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 information_source-how-to-use
