@@ -47,7 +47,7 @@ export default function Incidents() {
       <View style={styles.header}>
         <Image source={logoImg} />
         <Text style={styles.headerText}>
-          Total <Text style={styles.headerTextBold}>{total} cases</Text>.
+          <Text style={styles.headerTextBold}>{total} incidents</Text> total.
         </Text>
       </View>
 
@@ -77,7 +77,7 @@ export default function Incidents() {
               style={styles.detailButton}
               onPress={() => navigateToDetail(incident)}
             >
-              <Text style={styles.detailButtonText}>Go to deatils</Text>
+              <Text style={styles.detailButtonText}>Go to details</Text>
               <Feather name="arrow-right" size={16} color="#E02041" />
             </TouchableOpacity>
           </View>
